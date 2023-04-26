@@ -1,20 +1,13 @@
 package edu.mrodrigochaves.challenge.Exercicio02;
 
-import java.io.Console;
-
 public class PosicaoPalavras {
 
     public static void main(String[] args) {
-        
-        String texto = "micro-ondas";
+      String s1 = "Eu sou um desenvolverdor Java";
+      String s2 = s1.substring(9,24); 
 
-        String[] retornoSplit = texto.split('-');
 
-    
-    Console.writeLine(String.format("Posição 0: {0} \nPosição 1: {1}", 
-      retornoSplit[0], retornoSplit[1]));
-
-    Console.readKey();
+      System.out.println(s2);
     }
 
     
