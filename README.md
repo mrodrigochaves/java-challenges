@@ -60,3 +60,9 @@ Para um desafio um pouco mais difícil, crie uma calculadora de números primos 
 Os fatores primos de um número são todos os números inteiros abaixo desse número que são divisíveis no número e também em 1. Por exemplo, os fatores primos de 12 são 1,2,3,4,6 e 12.
 
 Crie uma calculadora de fatoração de primos que retorne os fatores primos de qualquer número entre 2 e 100. Se você estiver procurando uma versão mais avançada desse desafio, use o exercício 9 para criar uma calculadora de fatoração de primos para qualquer número. Dica: pense em usar raízes quadradas para cortar seu trabalho pela metade.
+
+## Credits & Links
+
+- [Codeacademy](https://www.codecademy.com/resources/blog/java-code-challenges-for-beginners/) - The official website
+
+<br />
