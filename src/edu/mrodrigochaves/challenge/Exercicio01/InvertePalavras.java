@@ -1,4 +1,4 @@
-package edu.mrodrigochaves.challenge;
+package edu.mrodrigochaves.challenge.Exercicio01;
 
 import java.util.regex.Pattern;
 
