@@ -20,12 +20,13 @@ Para um buscador de palavras mais avançado, crie um programa que retorne o núm
 4. Anagramas
 Duas palavras são anagramas se contiverem as mesmas letras, mas em uma ordem diferente. Aqui estão alguns exemplos de pares de anagramas:
 
-“ouvir” e “silêncio”
-“binário” e “inteligente”
-“Paris” e “pares”
+“listen” and “silent”
+“binary” and “brainy”
+“Paris” and “pairs”
+
 Para uma determinada entrada de duas strings, retorne um Boolean TRUE se as duas strings forem anagramas.
 
-Como um desafio adicional, para uma determinada matriz de strings, retorne listas separadas que agrupam anagramas. Por exemplo, a entrada {“tar,” “rat,” “art,” “meats,” “steam”}, a saída deve ser algo como {[“tar,” “rat,” “art”], [“ carnes,” “vapor”]}.
+Como um desafio adicional, para uma determinada matriz de strings, retorne listas separadas que agrupam anagramas. Por exemplo, a entrada {“tar,” “rat,” “art,” “meats,” “steam”}, a saída deve ser algo como {[“tar,” “rat,” “art”], [“meats,” “steam”]}.
 
 5. Pangramas
 Um pangrama é uma frase que contém todas as 26 letras do alfabeto inglês. Um dos exemplos mais conhecidos de pangrama é: “A rápida raposa marrom pula sobre o cachorro preguiçoso”. Crie um verificador de pangramas que retorne um booleano VERDADEIRO se uma string de entrada for um pangrama e FALSO se não for.
