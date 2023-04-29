@@ -5,7 +5,7 @@ public class Pangramas {
 
     public static void main(String[] args) {
         // Declaração de uma string que representa uma frase
-        String[] frase = {"The quick brown fox jumps over the lazy dog."};
+        String[] frase = {"Mr. Jock, TV quiz Ph.D., bags few lynx."};
         
         // Loop para percorrer a frase
         for (String palavra : frase) {

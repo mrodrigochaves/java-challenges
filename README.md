@@ -34,7 +34,7 @@ Como um desafio adicional, para uma determinada matriz de strings, retorne lista
 5. Pangramas
 Um pangrama é uma frase que contém todas as 26 letras do alfabeto inglês. Um dos exemplos mais conhecidos de pangrama é: “The quick brown fox jumps over the lazy dog.”. Crie um verificador de pangramas que retorne um booleano VERDADEIRO se uma string de entrada for um pangrama e FALSO se não for.
 
-Para um desafio adicional de pangram, crie um verificador de pangram perfeito. Um pangrama perfeito é uma frase que usa cada letra do alfabeto apenas uma vez, como “Sr. Jock, Ph.D. em teste de TV, pega alguns linces.
+Para um desafio adicional de pangram, crie um verificador de pangram perfeito. Um pangrama perfeito é uma frase que usa cada letra do alfabeto apenas uma vez, como “Mr. Jock, TV quiz Ph.D., bags few lynx."
 
 6. Inversão de número
 Este é um favorito da entrevista técnica . Para um determinado número de entrada, retorne o número ao contrário. Portanto, uma entrada de 3956 deve retornar 6593.
