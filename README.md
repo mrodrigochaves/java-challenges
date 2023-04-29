@@ -1,7 +1,10 @@
 ## Java challenges
 
 ### 10 desafios de código Java para praticar suas novas habilidades
+# 💻 Stacks utilizadas:
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) 
 
+###Desafios:
 1. Inversão de palavras
 Para este desafio, a entrada é uma sequência de palavras e a saída deve ser as palavras ao contrário, mas com as letras na ordem original. Por exemplo, a string “Cachorro morde homem” deve resultar como “homem morde Cachorro”.
 
