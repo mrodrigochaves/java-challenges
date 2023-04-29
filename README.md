@@ -32,7 +32,7 @@ Para uma determinada entrada de duas strings, retorne um Boolean TRUE se as duas
 Como um desafio adicional, para uma determinada matriz de strings, retorne listas separadas que agrupam anagramas. Por exemplo, a entrada {“tar,” “rat,” “art,” “meats,” “steam”}, a saída deve ser algo como {[“tar,” “rat,” “art”], [“meats,” “steam”]}.
 
 5. Pangramas
-Um pangrama é uma frase que contém todas as 26 letras do alfabeto inglês. Um dos exemplos mais conhecidos de pangrama é: “A rápida raposa marrom pula sobre o cachorro preguiçoso”. Crie um verificador de pangramas que retorne um booleano VERDADEIRO se uma string de entrada for um pangrama e FALSO se não for.
+Um pangrama é uma frase que contém todas as 26 letras do alfabeto inglês. Um dos exemplos mais conhecidos de pangrama é: “The quick brown fox jumps over the lazy dog.”. Crie um verificador de pangramas que retorne um booleano VERDADEIRO se uma string de entrada for um pangrama e FALSO se não for.
 
 Para um desafio adicional de pangram, crie um verificador de pangram perfeito. Um pangrama perfeito é uma frase que usa cada letra do alfabeto apenas uma vez, como “Sr. Jock, Ph.D. em teste de TV, pega alguns linces.
 
