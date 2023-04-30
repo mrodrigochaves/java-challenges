@@ -4,7 +4,7 @@ import java.text.DecimalFormat;
 
 public class Inversao {
 
-    public static final DecimalFormat df = new DecimalFormat("#0.00");
+    private static final DecimalFormat df = new DecimalFormat("#0.00");
  
     public static void main(String[] args) {
 
