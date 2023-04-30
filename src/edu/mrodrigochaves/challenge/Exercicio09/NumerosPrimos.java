@@ -11,7 +11,7 @@ public class NumerosPrimos {
     }
 
     public static void main(String[] args) {
-        for (int i = 2; i <= 50; i++) {// verifica números de 2 até o numeor informado
+        for (int i = 2; i <= 20; i++) {// verifica números de 2 até o numeor informado
             if( simPrimo(i) )
                 System.out.println("Sim " + i + " é primo.");
         }        
