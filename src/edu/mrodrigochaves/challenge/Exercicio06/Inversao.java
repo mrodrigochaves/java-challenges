@@ -1,13 +1,19 @@
 package edu.mrodrigochaves.challenge.Exercicio06;
 
+import java.text.DecimalFormat;
+
 public class Inversao {
+
+    public static final DecimalFormat df = new DecimalFormat("#0.00");
  
     public static void main(String[] args) {
+
+
         // Declaração de uma variável inteira para ser invertida
-		Integer paraInverter = 4785; 
+		double paraInverter = 473.85; 
 
         // Transforma a variável em uma string
-		String numDigitos = paraInverter.toString(); 
+		String numDigitos = Double.toString(paraInverter); 
 
         // Declaração de uma string vazia que armazenará o número invertido
 		String armazena = ""; 
@@ -20,7 +26,11 @@ public class Inversao {
 		}
 		
          // Imprime o número invertido na tela
-		System.out.println("Este é o número invertido: " + armazena);
+		System.out.println("Este é o número invertido: " + armazena );
+
+        // Imprime o número invertido na tela com duas casas decimais
+        System.out.println("Este é o número invertido com duas casas decimais: " + df.format(Double.parseDouble(armazena)));
+           
 	}
 
 }
