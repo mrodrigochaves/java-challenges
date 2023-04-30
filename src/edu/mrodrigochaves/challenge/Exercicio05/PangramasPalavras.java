@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 
-public class Pangramas {
+public class PangramasPalavras {
 
     public static void main(String[] args) {
         // Define a frase a ser verificada

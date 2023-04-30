@@ -2,7 +2,7 @@ package edu.mrodrigochaves.challenge.Exercicio06;
 
 import java.text.DecimalFormat;
 
-public class Inversao {
+public class InversaoNumeros {
 
     private static final DecimalFormat df = new DecimalFormat("#0.00");
  
