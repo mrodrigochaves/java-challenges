@@ -1,7 +1,6 @@
 package edu.mrodrigochaves.challenge.Exercicio08;
 
 public class MaxProduto {
-
     // Método que calcula o produto máximo em um subarray dado um array de inteiros
     static int subArrayMaxProduto(int arr[]) {
 
