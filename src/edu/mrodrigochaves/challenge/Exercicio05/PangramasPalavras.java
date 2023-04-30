@@ -5,7 +5,6 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class PangramasPalavras {
-
     public static void main(String[] args) {
         // Define a frase a ser verificada
         String frase = "Mr. Jock, TV quiz Ph.D., bags few lynx.";

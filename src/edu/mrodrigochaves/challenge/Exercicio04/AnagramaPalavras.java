@@ -50,7 +50,6 @@ public class AnagramaPalavras {
         // retorna uma lista com todas as listas de anagramas encontradas
         return new ArrayList<>(anagramas.values());
     }
-
     // função principal
     public static void main(String[] args) {
         // verifica se duas strings são anagramas

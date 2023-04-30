@@ -8,7 +8,6 @@ public class InversaoNumeros {
  
     public static void main(String[] args) {
 
-
         // Declaração de uma variável inteira para ser invertida
 		double paraInverter = 473.85; 
 

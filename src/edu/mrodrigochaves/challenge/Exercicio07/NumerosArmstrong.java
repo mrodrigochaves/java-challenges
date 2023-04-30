@@ -4,7 +4,6 @@ public class NumerosArmstrong {
     public static void main(String[] args) {
 
         int entradaNumero;
-
         //Loop para testar números de 1 a 1000
         for (int i = 1; i <= 1000; i++) {
             entradaNumero = 0;
