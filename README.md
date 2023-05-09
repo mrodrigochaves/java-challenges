@@ -1,6 +1,6 @@
 ## Java challenges
 
-### 10 desafios de código Java para praticar suas novas habilidades
+### 10 desafios de código Java para praticar e desenvolver suas habilidades
 # 💻 Stacks utilizadas:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) 
 
